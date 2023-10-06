@@ -5,5 +5,6 @@ create a git hub account
 create repository
 initialize github repository
 
-<img width="169" alt="image" src="https://github.com/Saifkhan700/mst/assets/127673548/abf1a46c-759c-4e42-bc7d-8400321e21e3">
+<img width="154" alt="image" src="https://github.com/Saifkhan700/mst/assets/127673548/4e1ca0b1-c426-43bd-ab1f-e9cc5c816cb2">
+
 
